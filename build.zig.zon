@@ -1,0 +1,14 @@
+.{
+    .name = .base64,
+    .version = "0.1.0",
+    .fingerprint = 0xcf923276c99f1b30,
+    .minimum_zig_version = "0.15.2",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
